@@ -22,7 +22,7 @@ pip install selenium
 
    <img src="readme.assets/image-20241024101833899.png" alt="image-20241024101833899" style="zoom:43%;" />
 
-3. 从此地址https://googlechromelabs.github.io/chrome-for-testing/，下载chromedriver。
+3. 从此地址[https://googlechromelabs.github.io/chrome-for-testing/](https://googlechromelabs.github.io/chrome-for-testing/)，下载chromedriver。
 
 4. 然后打开自己的使用的chrome，登录bing，之后将用户的信息复制到某个目录下。（该操作可以让selenium打开的chrome页面保持用户登录）
 
